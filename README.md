@@ -1,4 +1,4 @@
-## Olá, sou o Giovanna Dantas!
+## Olá, sou a Giovanna Dantas!
 <div align="center">
 <a href="https://github.com/giovalentimn">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giovalentimn&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
