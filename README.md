@@ -11,6 +11,10 @@
 <img align="center" alt="Gio-Jc" height="40" width="50" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
 <img align="center" alt="Gio-cy" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg">
 <img align="center" alt="Gio-postman" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg">
+<img align="center" alt="Gio-postman" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg">
+<img align="center" alt="Gio-postman" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg">
+<img align="center" alt="Gio-postman" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg">
+
 
 
 </div>
