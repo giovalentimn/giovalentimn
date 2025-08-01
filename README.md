@@ -6,13 +6,12 @@
 </div>
 <div style="display: inline_block"><br>
 <img align="center" alt="Gio-Git" height="40" width="50" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
-<img align="center" alt="Gio-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Gio-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Gio-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Gio-Jc" height="40" width="50" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
-<img align="center" alt="Gio-mango" height="40" width="50" src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor">
-<img align="center" alt="Gio-node" height="40" width="50" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
-<img align="center" alt="Gio-react" height="40" width="50" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
+<img align="center" alt="Gio-cy" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg">
+<img align="center" alt="Gio-postman" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg">
+
 
 </div>
 
